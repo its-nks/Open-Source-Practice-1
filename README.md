@@ -1,3 +1,1 @@
-# IEEE-Open-Source-Week-2024
-# Manvi Upadhyay
-# saumya yadav
+# IEEE-Open-Source-Week-2024 Practice
